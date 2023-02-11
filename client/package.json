@@ -11,14 +11,14 @@
   "dependencies": {
     "@codemirror/lang-cpp": "^6.0.2",
     "@codemirror/state": "^6.2.0",
-    "@codemirror/view": "^6.7.3",
+    "@codemirror/view": "^6.8.1",
     "@next/font": "^13.1.6",
     "@radix-ui/react-alert-dialog": "^1.0.2",
     "@radix-ui/react-dialog": "^1.0.2",
     "@radix-ui/react-label": "^2.0.0",
     "@radix-ui/react-tabs": "^1.0.2",
-    "@uiw/codemirror-theme-vscode": "^4.19.7",
-    "@uiw/react-codemirror": "^4.19.7",
+    "@uiw/codemirror-theme-vscode": "^4.19.8",
+    "@uiw/react-codemirror": "^4.19.8",
     "class-variance-authority": "^0.4.0",
     "clsx": "^1.2.1",
     "codemirror": "^6.0.1",
@@ -35,14 +35,14 @@
     "yjs": "^13.5.45"
   },
   "devDependencies": {
-    "@types/node": "^18.11.18",
-    "@types/react": "^18.0.27",
+    "@types/node": "^18.13.0",
+    "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.10",
     "autoprefixer": "^10.4.13",
-    "eslint": "^8.33.0",
+    "eslint": "^8.34.0",
     "eslint-config-next": "^13.1.6",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.4",
+    "tailwindcss": "^3.2.6",
     "typescript": "^4.9.5"
   }
 }
